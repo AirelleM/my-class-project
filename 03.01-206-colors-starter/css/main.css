@@ -35,14 +35,17 @@ header {
 
 #column-1 {
   background: #f5a8f7;
+  width: 33.33%;
 }
 
 #column-2 {
   background: #f58df8;
+  width: 33.3%;
 }
 
 #column-3 {
   background: #f436fa;
+  width:33.33%
 }
 
 
